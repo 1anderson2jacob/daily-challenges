@@ -1,4 +1,5 @@
 'use strict';
+
 let changeEnough = require('../convenience-store');
 
 describe('normal inputs', () => {
