@@ -17,4 +17,4 @@ Notice in the second example above, "MABELLE" is returned as "Mabelle".
 
 ## Credit
 
-edabit.com
+[edabit.com](https://edabit.com/challenge/ZN5cpGPNRS3nrjMo5)
