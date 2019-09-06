@@ -25,4 +25,4 @@ penny: 1 cent / $0.01
 
 ## Credit
 
-edabit.com
+[edabit.com](https://edabit.com/challenge/erFxBbqzZPSegMwnc)
